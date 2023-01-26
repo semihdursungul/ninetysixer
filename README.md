@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninetysixer
 - 👀 I’m interested in C++, Python, Javascript
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me ...
 
 <!---
