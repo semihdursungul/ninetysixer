@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninetysixer / @semihdursungul
 - 👀 I’m interested in C++, Python, Javascript, Swift
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🌱 I’m currently learning Python, HTML, CSS and C++
 
 <!---
 ninetysixer/ninetysixer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
