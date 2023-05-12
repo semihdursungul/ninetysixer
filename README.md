@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ninetysixer
+- 👋 Hi, I’m @ninetysixer / @semihdursungul
 - 👀 I’m interested in C++, Python, Javascript, Swift
 - 🌱 I’m currently learning Python, HTML and CSS
 
