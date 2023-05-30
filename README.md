@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ninetysixer / @semihdursungul
-- 👀 I’m interested in C++, Python, Javascript, Swift, React
+- 👀 I’m interested in C++, Python, Java, Javascript, React, C#
 - 🌱 I’m currently learning Python, HTML, CSS and C++ and React :)
+- 🎮 Also I am developing my own games through both Unity and Unreal Engine!
 
 <!---
 ninetysixer/ninetysixer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
