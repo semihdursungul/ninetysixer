@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semihdursungul&theme=tokyonight)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=semihdursungul.semihdursungul)
+![](https://visitor-badge.laobi.icu/badge?page_id=semihdursungul)
 
 <!---
 ninetysixer/ninetysixer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
