@@ -36,7 +36,7 @@
 
 <p align="center">
  <a href="https://play.unity.com/mg/other/webgl-builds-348680" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="Kart Racing Game" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://play.unity.com/mg/other/flapflap" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="Flappy Bird" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://play.unity.com/mg/other/flapflap" target="_blank" rel="noopener noreferrer"> <img src="https://freepngimg.com/thumb/logo/109939-logo-pic-bird-flappy-free-transparent-image-hq.png" alt="Flappy Bird" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
 
