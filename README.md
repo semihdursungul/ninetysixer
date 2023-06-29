@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninetysixer / @semihdursungul
 - 👀 I’m interested in C++, Python, Java, Javascript, C#
-- 🌱 I’m currently learning Python, C++, Java and Javascript
+- 🌱 I’m currently learning Python, C++, Java, Javascript and C#
 - 🎮 Also I am developing my own games through both Unity and Unreal Engine!
 
 
