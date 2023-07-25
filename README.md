@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninetysixer / @semihdursungul
 - 👀 I’m interested in C++, Python, Java, Javascript, C#
-- 🌱 I’m currently learning Python, C++, Java, Javascript and C#
+- 🌱 I’m currently learning Python, C++, Java and C#
 - 🎮 Also I am developing my own games through both Unity and Unreal Engine!
 
 ![](https://komarev.com/ghpvc/?username=semihdursungul&color=brightgreen)
@@ -24,8 +24,6 @@
 <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
  
