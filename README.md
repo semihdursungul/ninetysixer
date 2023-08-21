@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ninetysixer / @semihdursungul
-- 👀 I’m interested in C++, Python, Java, Javascript, C#
-- 🌱 I’m currently learning Python, C++, Java and C#
-- 🎮 Also I am developing my own games through both Unity and Unreal Engine!
+- I’m currently interested in Python, C++, Java and C#
+- Also I am developing my own games through both Unity and Unreal Engine!
 
 ![](https://komarev.com/ghpvc/?username=semihdursungul&color=brightgreen)
 
