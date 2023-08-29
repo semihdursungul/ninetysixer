@@ -2,7 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semihdursungul&theme=tokyonight)
 
-
 ## ✉️ Find me on:
 
 <p align="center">
